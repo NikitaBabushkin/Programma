@@ -1,0 +1,11 @@
+let a; 
+alert(a);
+let b = null; 
+alert(b);
+let c = confirm('вам есть 18?');
+alert(c);
+let d = 'a';
+let e = 'b';
+alert(d * e);
+alert(10 / 0);
+alert(-10 / 0);
